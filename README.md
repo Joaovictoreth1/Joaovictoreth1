@@ -2,9 +2,6 @@ My name is João Victor, and I'm a Full-Stack Developer from São Paulo, SP. I'm
 
 When I'm programming, I feel like I'm in my own world, focused on building efficient and functional applications.
 
-My Skills
-Languages ​​and Technologies: I have knowledge of HTML, CSS, JavaScript, Python, and Java.
-
 Academic: I'm currently studying Systems Analysis and Development (SDA) at UNICID.
 
 Languages: I have knowledge of English.
@@ -12,3 +9,9 @@ Languages: I have knowledge of English.
 Objective: I'm looking for an internship opportunity in the development field to apply and expand my skills.
 
 Contact: Joaovictor.business2005@gmail.com
+
+
+My Skills
+Languages ​​and Technologies: I have knowledge of HTML, CSS, JavaScript, Python, and Java.
+
+****<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/345f6520-acbc-43e9-85f4-3f5f6ecc7c1e" />
