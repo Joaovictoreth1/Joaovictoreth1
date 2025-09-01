@@ -15,4 +15,5 @@ My Skills
 Languages ​​and Technologies: I have knowledge of HTML, CSS, JavaScript, Python, and Java.
 
 
-<img width="1000" height="428" alt="image" src="https://github.com/user-attachments/assets/591e385d-7caa-4568-8bc9-b56f65d74671" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/24f232e8-e2fe-4a5a-a846-f7e7ae86f04c" />
+
