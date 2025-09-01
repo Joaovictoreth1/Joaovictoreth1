@@ -14,3 +14,5 @@ Objetivo: Estou em busca de uma oportunidade de estágio na área de desenvolvim
 
 
 Contato : Joaovictor.business2005@gmail.com
+
+**<img width="161" height="48" alt="image" src="https://github.com/user-attachments/assets/5f60c469-a6bf-453e-8ea5-69f4ad9b83ce" />
