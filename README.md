@@ -3,6 +3,8 @@
 
 
 
+
+
 Meu nome é João Victor e sou um Desenvolvedor Full-stack de São Paulo, SP. Sou um profissional apaixonado por tecnologia e por encontrar soluções criativas para os desafios do desenvolvimento de software.
 
 Quando estou programando, sinto que estou no meu próprio mundo, focado em construir aplicações eficientes e funcionais.
