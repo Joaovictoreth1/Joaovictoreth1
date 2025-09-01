@@ -1,3 +1,8 @@
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/b115bc1f-7af4-4d82-aad4-048c411abb39" />
+
+
+
+
 Meu nome é João Victor e sou um Desenvolvedor Full-stack de São Paulo, SP. Sou um profissional apaixonado por tecnologia e por encontrar soluções criativas para os desafios do desenvolvimento de software.
 
 Quando estou programando, sinto que estou no meu próprio mundo, focado em construir aplicações eficientes e funcionais.
