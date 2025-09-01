@@ -14,5 +14,5 @@ Contact: Joaovictor.business2005@gmail.com
 My Skills
 Languages ​​and Technologies: I have knowledge of HTML, CSS, JavaScript, Python, and Java.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8beb5f70-6eb5-46f4-8062-c39f6f3b22cc" />
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/78dd423e-55df-4a56-b162-c17fa08e57e1" />
