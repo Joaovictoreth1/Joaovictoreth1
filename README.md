@@ -1,7 +1,7 @@
 Olá .
 
+                                                                       ![matrix GIF](https://github.com/user-attachments/assets/4d01e840-d88d-4d47-b152-e348e89a3382)
 
-<img width="354" height="200" alt="image" src="https://github.com/user-attachments/assets/db592ad7-8a42-49fd-916c-d57e3cd32744" />
 
 
 
