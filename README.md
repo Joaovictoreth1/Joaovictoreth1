@@ -1,16 +1,16 @@
-## Hi there 👋
+Meu nome é João Victor e sou um Desenvolvedor Full-stack de São Paulo, SP. Sou um profissional apaixonado por tecnologia e por encontrar soluções criativas para os desafios do desenvolvimento de software.
 
-<!--
-**Joaovictoreth1/Joaovictoreth1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quando estou programando, sinto que estou no meu próprio mundo, focado em construir aplicações eficientes e funcionais.
 
-Here are some ideas to get you started:
+Minhas Competências
+Linguagens e Tecnologias: Tenho conhecimento em HTML, CSS, JavaScript, Python e Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acadêmico: Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na UNICID.
+
+Idiomas: Tenho conhecimento em Inglês.
+
+Objetivo: Estou em busca de uma oportunidade de estágio na área de desenvolvimento para aplicar e expandir minhas habilidades.
+
+
+
+Contato : Joaovictor.business2005@gmail.com
