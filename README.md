@@ -31,5 +31,9 @@ work tools:
 <img width="161" height="48" alt="image" src="https://github.com/user-attachments/assets/703da30f-67b5-4c04-b48b-222d274878a8" />
 
 
+My projects:
 
+Portfolio.
+
+https://joaovictoreth1.github.io/Portfolio
 
