@@ -1,6 +1,7 @@
-                                                    <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/b115bc1f-7af4-4d82-aad4-048c411abb39" />
+Olá .
 
 
+<img width="354" height="200" alt="image" src="https://github.com/user-attachments/assets/db592ad7-8a42-49fd-916c-d57e3cd32744" />
 
 
 
