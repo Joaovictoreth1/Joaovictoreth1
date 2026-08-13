@@ -35,5 +35,5 @@ My projects:
 
 Portfolio.
 
-https://joaovictoreth1.github.io/Portfolio
+https://joaovictordevportfolio.online
 
